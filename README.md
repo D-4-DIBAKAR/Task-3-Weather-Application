@@ -1,4 +1,4 @@
-# Task 3 :React JS Weather Forecast Dashboard
+# Task 3 : React JS Weather Forecast Dashboard
 
 **Live demo: [https://weather-application-24.netlify.app/](https://weather-application-24.netlify.app/)**
 
